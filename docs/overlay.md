@@ -2,7 +2,7 @@
 
 ## 使用
 ```
- <Overlay :isShow="isShow" @click="isShow = false"></Overlay>
+ <n-overlay :isShow="isShow" @click="isShow = false"></n-overlay>
 ```
 
 ## 属性
